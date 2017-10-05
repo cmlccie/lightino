@@ -51,7 +51,7 @@ void setup() {
   digitalWrite(LED5, LOW);
   digitalWrite(LED6, LOW);
   digitalWrite(LED7, LOW);
-  digitalWrite(LED1, LOW);
+  digitalWrite(LED8, LOW);
 }
 
 void loop() {
