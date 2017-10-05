@@ -62,7 +62,7 @@ void loop() {
     for (uint8_t l=0; l<8; l++) {
       // turn on one LED at a time
       digitalWrite(led_anodes[l], HIGH);
-      delay(10);
+      delay(1);
       digitalWrite(led_anodes[l], LOW);
     }
 
